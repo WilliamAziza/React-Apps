@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+.Container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.Header{
+    margin-left: 30px;
+}
+.Real-Madrid{
+    margin-left: 30px;
+    font-weight: 500;
+}
+.Text-Under{
+    font-weight: bold;
+    margin-left: 30px;
+}
+.Text-Reply{
+    font-weight: normal;
+    margin-left: 10px;
+}
